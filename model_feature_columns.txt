@@ -1,0 +1,14 @@
+unit_price
+freight_price
+product_photos_qty
+product_name_lenght
+product_description_lenght
+month
+year
+holiday
+s
+lag_price
+price_elasticity
+delta_comp_1
+delta_comp_2
+delta_comp_3
