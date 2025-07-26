@@ -1,6 +1,6 @@
 # Pricing Optimization Model (AWS Deployment)
 
-# Author
+## Author
 
 Maruf Ajimati
 Program: Master of Science in Business Analytics – Nexford University
