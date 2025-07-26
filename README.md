@@ -1,10 +1,5 @@
 # Pricing Optimization Model (AWS Deployment)
 
-## Author
-
-Maruf Ajimati
-Program: Master of Science in Business Analytics – Nexford University
-
 This repository contains the final project for **BAN6800: Business Analytics Capstone** at **Nexford University**.  
 The project focuses on **Pricing Optimization** using machine learning to predict **optimal product prices** and **expected revenue** based on historical retail data and competitor price deltas.
 
